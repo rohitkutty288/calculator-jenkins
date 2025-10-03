@@ -74,7 +74,7 @@ html = """
         <button class="key op" data-action="equals">=</button>
       </div>
     </div>
-    <div class="footer">Runs in same Docker container · Server-side ready</div>
+    <div class="footer">Application Version 1.0</div>
   </div>
 
 <script>
