@@ -44,7 +44,7 @@ html = """
 </head>
 <body>
   <div class="wrap">
-    <h1>Elegant Calculator</h1>
+    <h1>Jenkins-calculator</h1>
     <div class="calculator" role="application">
       <div class="display" id="display"><span id="expr">0</span></div>
 
