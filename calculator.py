@@ -51,7 +51,7 @@ html = """
 </head>
 <body>
   <div class="wrap">
-    <h1>Elegant Calculator</h1>
+    <h1>Jenkins calculator</h1>
     <div class="calculator" role="application">
       <div class="display" id="display"><span id="expr">0</span></div>
       <div class="buttons">
@@ -76,7 +76,7 @@ html = """
         <button class="key op" data-action="equals">=</button>
       </div>
     </div>
-    <div class="footer">Runs in same Docker container · Server-side ready</div>
+    <div class="footer">Version 1.1</div>
   </div>
 
 <script>
